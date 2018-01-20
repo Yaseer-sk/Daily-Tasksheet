@@ -26,7 +26,7 @@ session_start();
 
 <body>
 
-<center>  <a href="http://localhost/basics/admin1.php"><b>Back to dashboard</b></a> </center>
+<center>  <a href="./admin1.php"><b>Back to dashboard</b></a> </center>
   
  <div style="float: right; margin-right: 20px"><a href="http://localhost/basics/logout.php"><b>Logout</b></a></div>
  
