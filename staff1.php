@@ -12,11 +12,11 @@ session_start();
 </title>
 <script src="jquery-3.1.1.min.js"></script>
 
-<link rel="stylesheet" href="bootstrap-3.3.7-dist\css\bootstrap.min.css">
+<link rel="stylesheet" href="./bootstrap.min.css">
 
-<script src="bootstrap-3.3.7-dist\bootstrap.min.js"></script>
+<script src="./bootstrap.min.js"></script>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="./font-awesome.min.css">
  
 </head>
 
@@ -28,7 +28,7 @@ session_start();
 
 <center>  <a href="./admin1.php"><b>Back to dashboard</b></a> </center>
   
- <div style="float: right; margin-right: 20px"><a href="http://localhost/basics/logout.php"><b>Logout</b></a></div>
+ <div style="float: right; margin-right: 20px"><a href="./logout.php"><b>Logout</b></a></div>
  
 
   
