@@ -19,14 +19,14 @@ include("connect.php");
 </title>
 <script src="jquery-3.1.1.min.js"></script>
 
-<link rel="stylesheet" href="bootstrap-3.3.7-dist\css\bootstrap.min.css">
+<link rel="stylesheet" href="./bootstrap.min.css">
 
-<script src="bootstrap-3.3.7-dist\bootstrap.min.js"></script>
+<script src="./bootstrap.min.js"></script>
 </head>
 <body>
 <br />
 <br />
-<div style="float: right; margin-right: 20px"><a href="http://localhost/basics/logout.php"><b>Logout</b></a></div>
+<div style="float: right; margin-right: 20px"><a href="./logout.php"><b>Logout</b></a></div>
  
 <div class="row">
  <div class="row">
